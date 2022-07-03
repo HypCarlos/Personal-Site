@@ -1,0 +1,33 @@
+.navbar-container {
+  display: flex;
+}
+
+.navbar-header {
+  display: flex;
+  padding: 3rem;
+  justify-content: flex-start;
+}
+
+.left-half {
+  flex: 1;
+}
+
+.right-half {
+  flex: 1;
+}
+
+ul {
+  color: white;
+  list-style: none;
+  display: inline-flex;
+}
+
+li {
+  padding: 2rem;
+}
+
+.nav-buttons {
+  display: flex;
+  padding: 0.7rem;
+  justify-content: flex-end;
+}

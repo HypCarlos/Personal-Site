@@ -1,0 +1,22 @@
+.homepage-container {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+
+.header {
+  background-color: #4801ff;
+}
+
+.header-content {
+  flex-direction: row;
+  display: flex;
+}
+
+#foam {
+  height: 500px;
+}
+
+.header-content {
+  justify-content: center;
+}

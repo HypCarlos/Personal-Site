@@ -1,0 +1,22 @@
+.projects-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.left-half {
+  flex: 1;
+}
+
+.right-half {
+  flex: 1;
+}
+
+.projects-banner h2 {
+  font-size: 6.5rem;
+  padding: 100px;
+}
+
+.projects-info p {
+  padding: 10rem;
+}

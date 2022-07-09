@@ -5,16 +5,20 @@
 }
 
 .header {
-  background-color: #4801ff;
+  /* background-color: #4801ff; */
+  height: 84rem;
+  background-image: url("../../img/plants.png");
+  background-size: 179rem;
 }
 
 .header-content {
   flex-direction: row;
   display: flex;
+  justify-content: center;
 }
 
 #foam {
-  height: 500px;
+  height: 800px;
 }
 
 .header-content {

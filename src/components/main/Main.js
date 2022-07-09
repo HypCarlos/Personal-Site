@@ -2,7 +2,6 @@ import React from "react";
 import "../main/main.css";
 import FOAM from "../../img/Foam.gif";
 import TypeWriterEffect from "react-typewriter-effect";
-import Spline from "@splinetool/react-spline";
 
 //COMPONENTS
 import Footer from "../footer/Footer";

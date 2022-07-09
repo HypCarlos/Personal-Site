@@ -1,9 +1,9 @@
 import React from "react";
 import "../homepage/homepage.css";
 import Navbar from "../navbar/Navbar";
-import JUNGLE from "../../img/jungle.jpg";
 import FOAM from "../../img/Foam.gif";
 import Projects from "../projects/Projects";
+// import Footer from "../footer/Footer";
 
 //COMPONENTS
 

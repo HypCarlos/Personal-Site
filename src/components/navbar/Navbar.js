@@ -12,9 +12,17 @@ function Navbar() {
       <div className="right-half">
         <div className="nav-buttons">
           <ul>
-            <li>Work</li>
-            <li>About</li>
-            <li>Contact</li>
+            <li>
+              <a href="/">Work</a>
+            </li>
+            <li>
+              {" "}
+              <a href="/">About</a>
+            </li>
+            <li>
+              {" "}
+              <a href="/">Contact</a>
+            </li>
           </ul>
         </div>
       </div>

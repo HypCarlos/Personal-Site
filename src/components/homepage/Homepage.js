@@ -3,7 +3,7 @@ import "../homepage/homepage.css";
 import Navbar from "../navbar/Navbar";
 import FOAM from "../../img/Foam.gif";
 import Projects from "../projects/Projects";
-// import Footer from "../footer/Footer";
+import Contact from "../contact/Contact";
 
 //COMPONENTS
 
@@ -20,6 +20,9 @@ function Homepage() {
       </div>
       <div className="projects-container">
         <Projects />
+      </div>
+      <div className="contact-container">
+        <Contact />
       </div>
     </div>
   );

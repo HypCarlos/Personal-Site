@@ -6,21 +6,21 @@
 
 .header {
   /* background-color: #4801ff; */
-  height: 84rem;
-  background-image: url("../../img/plants.png");
+  height: 60rem;
+  background-image: url("../../img/pop.jpeg");
   background-size: 179rem;
 }
 
 .header-content {
   flex-direction: row;
   display: flex;
-  justify-content: center;
 }
 
 #foam {
-  height: 800px;
+  height: 600px;
 }
 
 .header-content {
+  flex-direction: row;
   justify-content: center;
 }

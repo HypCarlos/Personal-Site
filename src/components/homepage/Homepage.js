@@ -4,6 +4,8 @@ import Navbar from "../navbar/Navbar";
 import FOAM from "../../img/Foam.gif";
 import Projects from "../projects/Projects";
 import Contact from "../contact/Contact";
+import Spline from '@splinetool/react-spline';
+import Banner from "../banner/Banner";
 
 //COMPONENTS
 
@@ -15,8 +17,14 @@ function Homepage() {
           <Navbar />
         </div>
         <div className="header-content">
-          <img id="foam" src={FOAM} alt="foam" />
+        <Spline id = "spline" scene="https://prod.spline.design/XpQZCA1OCD8cSVd9/scene.splinecode" />
+
+          {/* <img id="foam" src={FOAM} alt="foam" /> */}
+          
         </div>
+      </div>
+      <div className="banner-container">
+        <Banner/>
       </div>
       <div className="projects-container">
         <Projects />

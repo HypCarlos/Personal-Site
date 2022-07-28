@@ -43,3 +43,9 @@ a:hover {
   padding: 0.7rem;
   justify-content: flex-end;
 }
+
+#text {
+  color: white;
+  font-size: 18px;
+  padding-left: 10px;
+}

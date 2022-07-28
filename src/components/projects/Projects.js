@@ -12,11 +12,9 @@ function Projects() {
       <div className="right-half">
         <div className="projects-info">
           <p>
-            I'm probably not the typical designer positioned behind an
-            Illustrator artboard adjusting pixels, but I design. Immersed in
-            stylesheets tweaking font sizes and contemplating layouts is where
-            you'll find me (~_^). I'm committed to creating fluent user
-            experiences while staying fashionable.
+          Hello! I'm Carlos Cordero. I recently graduated from Florida International University with a Bachelors of Science.
+          in Computer Science I love to be able to bring ideas to life and be able to inspire others. I currently enjoy working
+          with react and working on both the design process and implementation of frontend work.
           </p>
         </div>
       </div>

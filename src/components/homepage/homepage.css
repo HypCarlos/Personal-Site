@@ -14,10 +14,11 @@
 .header-content {
   flex-direction: row;
   display: flex;
+  height: 84%;
 }
 
-#foam {
-  height: 600px;
+#spline {
+  max-height: 800px;
 }
 
 .header-content {

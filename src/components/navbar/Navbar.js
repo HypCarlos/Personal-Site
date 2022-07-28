@@ -1,12 +1,27 @@
 import React from "react";
 import "../navbar/navbar.css";
+import TypeWriterEffect from "react-typewriter-effect";
 
 function Navbar() {
   return (
     <div className="navbar-container">
       <div className="left-half">
         <div className="navbar-header">
-          <h1 style={{ color: "white" }}>[Carlos A. Cordero]</h1>
+       <h1 id= "text" > <TypeWriterEffect
+            color = "white"
+            startDelay={0}
+            cursorColor="white"
+
+            multiText={[
+              "Hello!",
+              "its",
+              "[Carlos A. Cordero]",
+            ]}
+            typeSpeed={80}
+            loop={true}
+          />
+          </h1>
+          {/* <h1 style={{ color: "white", fontSize: "35px"}}>[Carlos A. Cordero]</h1> */}
         </div>
       </div>
       <div className="right-half">

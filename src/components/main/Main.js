@@ -3,6 +3,8 @@ import "../main/main.css";
 import FOAM from "../../img/Foam.gif";
 import TypeWriterEffect from "react-typewriter-effect";
 
+
+
 //COMPONENTS
 import Footer from "../footer/Footer";
 
@@ -11,6 +13,8 @@ function Main() {
     <div className="flexbox-container">
       <div className="main-container">
         <div className="foam-container">
+       
+
           <img id="foam-img" src={FOAM} alt="foam" />
         </div>
         <div className="main-text">

@@ -64,7 +64,7 @@ function Contact() {
         </div>
         <div className="contact-right">
           <h3 className="contact-desc">
-            <b>Looking to contact me?</b> Get in touch. Always looking to work!
+            <b>Looking to contact me?</b> Get in touch.
           </h3>
 
           <form ref={formRef} onSubmit={handleSubmit}>

@@ -2,12 +2,12 @@
   display: flex;
   flex-direction: column;
   flex-wrap: wrap;
+  /* width: fit-content; */
 }
 
 .header {
-  /* background-color: #4801ff; */
   height: 60rem;
-  background-image: url("../../img/pop.jpeg");
+  background-image: url("../../img/bye.jpg");
   background-size: 179rem;
 }
 

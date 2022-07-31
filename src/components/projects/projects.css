@@ -14,9 +14,13 @@
 
 .projects-banner h2 {
   font-size: 6.5rem;
-  padding: 100px;
+  padding: 40px;
 }
 
-.projects-info p {
+.projects-info {
   padding: 10rem;
 }
+
+/* .projects-info p {
+  padding: 10rem;
+} */

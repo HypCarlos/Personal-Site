@@ -24,6 +24,7 @@ ul {
 
 li {
   padding: 3rem;
+  padding-left: 7rem;
   font-size: 16px;
 }
 
@@ -31,12 +32,13 @@ a {
   text-decoration: none;
   font-weight: bolder;
   color: white;
+  background-color: black;
 }
 
 a:hover {
   text-decoration: line-through;
   text-decoration-color: black;
-  text-decoration-thickness: 20%;
+  text-decoration-thickness: 30%;
 }
 .nav-buttons {
   display: flex;
@@ -47,5 +49,5 @@ a:hover {
 #text {
   color: white;
   font-size: 18px;
-  padding-left: 10px;
+  padding-left: 40px;
 }

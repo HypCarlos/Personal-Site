@@ -28,14 +28,14 @@ li {
   font-size: 16px;
 }
 
-a {
+.nav-buttons a {
   text-decoration: none;
   font-weight: bolder;
   color: white;
   background-color: black;
 }
 
-a:hover {
+.nav-buttons a:hover {
   text-decoration: line-through;
   text-decoration-color: black;
   text-decoration-thickness: 30%;

@@ -20,7 +20,7 @@ function Homepage() {
         <Spline id = "spline" scene="https://prod.spline.design/XpQZCA1OCD8cSVd9/scene.splinecode" />
 
           {/* <img id="foam" src={FOAM} alt="foam" /> */}
-          
+
         </div>
       </div>
       <div className="banner-container">

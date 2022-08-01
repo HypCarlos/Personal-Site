@@ -19,6 +19,7 @@
 
 #spline {
   max-height: 800px;
+  position: absolute;
 }
 
 .header-content {

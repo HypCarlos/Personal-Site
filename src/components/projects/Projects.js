@@ -1,8 +1,10 @@
 import React from "react";
+import ProjectItems from '../projectItems/ProjectItems';
 import "../projects/projects.css";
 
 function Projects() {
   return (
+    <div className="projects">
     <div className="projects-container">
       <div className="left-half">
         <div className="projects-banner">
@@ -18,6 +20,8 @@ function Projects() {
           </p>
         </div>
       </div>
+    </div>
+    <ProjectItems/>
     </div>
   );
 }

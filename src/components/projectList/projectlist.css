@@ -1,0 +1,18 @@
+.items-container {
+  height: 40vh;
+  width: 30%;
+  margin: 20px 10px;
+  border: 2px solid rgb(243, 242, 242);
+  border-radius: 10px 10px 0px 0px;
+  overflow: hidden;
+}
+
+.p-circle {
+  display: inline-block;
+}
+
+.card-browser {
+  display: flex;
+  height: 20px;
+  background-color: rgb(243, 242, 242);
+}

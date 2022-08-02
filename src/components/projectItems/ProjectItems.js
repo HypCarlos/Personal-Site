@@ -1,17 +1,22 @@
 import React from "react";
-import "../../components/projectItems/projectitems.css";
+import ProjectList from '../projectList/ProjectList';
+import "../../components/projectItems/projectItems.css";
+
+
 
 function ProjectItems(props) {
   return (
     <div className="projectItems-container">
-      <div className="project-items">
-        <div className="p-circle" style={{ backgroundColor: "red" }}></div>
-        <div className="p-circle" style={{ backgroundColor: "orange" }}></div>
-        <div
-          className="p-circle"
-          style={{ backgroundColor: "limegreen" }}
-        ></div>
-      </div>
+   
+    <div className="project-tiles">
+   <ProjectList/>
+   <ProjectList/>
+   <ProjectList/>
+   </div>
+   <div className="project-text">
+      <h1 className="project-banner">Create & Inspire. It's Carlos</h1>
+      <p className= "project-banner-text">My goal is to bring ideas to life while creating a memorable experience.</p>
+    </div>
     </div>
   );
 }

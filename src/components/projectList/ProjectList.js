@@ -1,7 +1,7 @@
 import React from "react";
 import "../projectList/projectlist.css";
 
-function ProjectItems() {
+function ProjectItems({img, link}) {
     return (
         <div className="items-container">
         <div className="card-container">
@@ -13,6 +13,9 @@ function ProjectItems() {
           style={{ backgroundColor: "limegreen" }}
         ></div>
         </div>
+        <a href= {link} target= "_blank">
+          <img className = "p-img" src= {img} alt= "pic" />
+        </a>
         </div>
 
         

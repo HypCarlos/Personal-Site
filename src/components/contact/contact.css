@@ -32,10 +32,9 @@
 }
 
 .contact-title {
-  font-size: 60px;
-  width: 80%;
-  font-weight: 1000;
-  text-align: left;
+  font-size: 5rem;
+  width: 100%;
+  text-align: center;
 }
 
 .contact-info-item {
@@ -75,4 +74,8 @@ button {
   color: white;
   font-weight: 500;
   cursor: pointer;
+}
+
+#contact-icon {
+  padding-left: 70px;
 }

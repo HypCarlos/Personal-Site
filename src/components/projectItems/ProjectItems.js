@@ -4,13 +4,15 @@ import "../../components/projectItems/projectItems.css";
 import {projects} from "../../data";
 
 
+
+
 function ProjectItems(props) {
   return (
     <div className="projectItems-container">
    
     <div className="project-tiles">
     {projects.map ((item) => (
-      <ProjectList key = {item.id} img = { item.img} link = {item.link} />
+      <ProjectList key = {item.id} img ={ item.img} link = {item.link} />
     ))}
    </div>
    {/* <div className="project-text">

@@ -35,11 +35,12 @@ function Contact() {
     <div className="contact">
       <div className="contact-bg"></div>
       <div className="contact-wrapper">
+      <div className="contact-banner"></div>
         <div className="contact-left">
           <h1 className="contact-title">
             {" "}
-            Shoot me a message!
-            <IoPaperPlaneOutline />
+            Contact me
+            <IoPaperPlaneOutline id = "contact-icon" />
           </h1>
 
           <div className="contact-info">

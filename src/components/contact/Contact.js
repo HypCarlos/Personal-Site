@@ -76,8 +76,11 @@ function Contact() {
             <button>Submit</button>
             {done && "  Thank you for your submission!"}
           </form>
+       
         </div>
+       
       </div>
+      
     </div>
   );
 }

@@ -17,6 +17,7 @@
 }
 
 .projects-banner h2 {
+  height: 100%;
   font-size: 6.5rem;
   padding: 50px;
 }

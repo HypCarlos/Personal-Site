@@ -33,7 +33,7 @@ li {
   font-weight: bolder;
   color: white;
 
-  /* background-color: black; */
+  background-color: black;
 }
 
 .nav-buttons a:hover {

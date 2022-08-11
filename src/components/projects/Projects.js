@@ -23,7 +23,7 @@ function Projects() {
       </div>
 
     </div>
-    <div className="project-links">
+    {/* <div className="project-links">
       <a href="https://github.com/HypCarlos">
         <h4>
           Link to my GitHub!
@@ -34,7 +34,7 @@ function Projects() {
           Link to my Linkedin!
         </h4>
       </a>
-    </div>
+    </div> */}
     <ProjectItems/>
     </div>
   );

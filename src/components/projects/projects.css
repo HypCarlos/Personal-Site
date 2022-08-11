@@ -29,3 +29,8 @@
 /* .projects-info p {
   padding: 10rem;
 } */
+
+.project-links a {
+  text-decoration: none;
+  color: black;
+}

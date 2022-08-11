@@ -40,7 +40,7 @@ function Contact() {
           <h1 className="contact-title">
             {" "}
             Contact me
-            <IoPaperPlaneOutline id = "contact-icon" />
+            {/* <IoPaperPlaneOutline id = "contact-icon" /> */}
           </h1>
 
           <div className="contact-info">

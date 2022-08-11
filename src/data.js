@@ -6,12 +6,12 @@ export const projects = [
     },
     {
         id: 2,
-        img: require("./img/father.png"),
-        link: 'https://fatherholdmynotepad.com/'
+        img: "https://user-images.githubusercontent.com/66544442/156288894-21564686-c6bc-464d-b86f-c4e1267a776e.png",
+        link: 'https://github.com/HypCarlos/E-Commerce-Clone'
     },
     {
         id: 3,
-        img: require("./img/father.png"),
-        link: 'https://fatherholdmynotepad.com/'
+        img: require("./img/patentify.png"),
+        link: 'https://patentify.cognac.cs.fiu.edu/Home'
     }
 ]

@@ -48,7 +48,7 @@ function Main() {
           </div>
         </div>
 
-        <Footer />
+        {/* <Footer /> */}
       </div>
     </div>
   );

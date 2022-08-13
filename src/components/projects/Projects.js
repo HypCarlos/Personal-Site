@@ -17,6 +17,8 @@ function Projects() {
           Hello! I'm Carlos A Cordero! I recently graduated from Florida International University with a Bachelors of Science.
           in Computer Science. I love to be able to bring ideas to life and be able to inspire others. I currently enjoy working
           with react and working on both the design process and implementation of frontend work.
+        <br/> <br/> <br/>
+          I have experience working with Java, React, HTML5, CSS, Python, R, and continue to keep learning.
 
           </p>
         </div>

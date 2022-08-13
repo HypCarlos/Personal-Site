@@ -7,6 +7,7 @@ import Contact from "../contact/Contact";
 import Spline from '@splinetool/react-spline';
 import Banner from "../banner/Banner";
 
+
 //COMPONENTS
 
 function Homepage() {
@@ -19,9 +20,6 @@ function Homepage() {
         <div className="header-content">
         <Spline id = "spline" scene="https://prod.spline.design/XpQZCA1OCD8cSVd9/scene.splinecode" />
        
-
-
-
         </div>
       </div>
       <div className="banner-container">
@@ -33,6 +31,7 @@ function Homepage() {
       <div className="contact-container">
         <Contact />
       </div>
+    
     </div>
   );
 }

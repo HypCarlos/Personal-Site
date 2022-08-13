@@ -5,6 +5,7 @@ import { AiOutlinePhone } from "react-icons/ai";
 import { AiOutlineMail } from "react-icons/ai";
 import { IoLocationOutline } from "react-icons/io5";
 import { IoPaperPlaneOutline } from "react-icons/io5";
+import Footer from "../footer/Footer";
 
 function Contact() {
   const formRef = useRef();
@@ -62,6 +63,7 @@ function Contact() {
               </h3>
             </div>
           </div>
+          <Footer/>
         </div>
         <div className="contact-right">
           <h3 className="contact-desc">

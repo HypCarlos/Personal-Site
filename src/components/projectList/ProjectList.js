@@ -1,7 +1,7 @@
 import React from "react";
 import "../projectList/projectlist.css";
 
-function ProjectItems({img, link}) {
+function ProjectItems({img, link, name}) {
     return (
         <div className="items-container">
         <div className="card-container">
@@ -12,6 +12,10 @@ function ProjectItems({img, link}) {
           className="p-circle"
           style={{ backgroundColor: "limegreen" }}
         ></div>
+        <div className="name-path">
+        <p> $Carlos/{name}</p>
+        </div>
+        
         </div>
         <a href= {link} target= "_blank">
           <img className = "p-img" src= {img} alt= "pic" />

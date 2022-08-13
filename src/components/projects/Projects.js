@@ -18,8 +18,9 @@ function Projects() {
           in Computer Science. I love to be able to bring ideas to life and be able to inspire others. I currently enjoy working
           with react and working on both the design process and implementation of frontend work.
         <br/> <br/> <br/>
-          I have experience working with Java, React, HTML5, CSS, Python, R, and continue to keep learning.
-
+          I have experience working with Java, React, HTML5, CSS, Python, R, and continue to keep learning new technologies and frameworks.
+          <br/> <br/> <br/>
+          My goal is to be able to push boundaries with software in order to complement lives.
           </p>
         </div>
       </div>

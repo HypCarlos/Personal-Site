@@ -73,8 +73,10 @@ button {
   padding: 15px;
   background-color: black;
   color: white;
-  font-weight: 500;
+  font-weight: bold;
   cursor: pointer;
+  /* border-radius: 50%; */
+  /* height: 70px; */
 }
 
 #contact-icon {

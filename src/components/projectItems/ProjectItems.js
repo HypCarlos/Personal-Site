@@ -15,7 +15,7 @@ function ProjectItems(props) {
     </div>
     <div className="project-tiles">
     {projects.map ((item) => (
-      <ProjectList key = {item.id} img ={ item.img} link = {item.link} />
+      <ProjectList key = {item.id} img ={ item.img} link = {item.link} name = {item.name} />
     ))}
    </div>
 

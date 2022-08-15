@@ -13,7 +13,7 @@ function ProjectItems({img, link, name}) {
           style={{ backgroundColor: "limegreen" }}
         ></div>
         <div className="name-path">
-        <p> $Carlos/{name}</p>
+        <p>$Carlos/{name}</p>
         </div>
         
         </div>

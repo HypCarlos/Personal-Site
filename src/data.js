@@ -7,7 +7,7 @@ export const projects = [
     },
     {
         id: 2,
-        img: "https://user-images.githubusercontent.com/66544442/156288894-21564686-c6bc-464d-b86f-c4e1267a776e.png",
+        img: require('../src/img/ecom.png'),
         link: 'https://github.com/HypCarlos/E-Commerce-Clone',
         name: 'E-Commerce site'
     },

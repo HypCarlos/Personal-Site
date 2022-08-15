@@ -26,18 +26,7 @@ function Projects() {
       </div>
 
     </div>
-    {/* <div className="project-links">
-      <a href="https://github.com/HypCarlos">
-        <h4>
-          Link to my GitHub!
-        </h4>
-      </a>
-      <a>
-        <h4>
-          Link to my Linkedin!
-        </h4>
-      </a>
-    </div> */}
+  
     <ProjectItems/>
     </div>
   );

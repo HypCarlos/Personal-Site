@@ -39,6 +39,12 @@ function Navbar() {
               <a href="/">Contact</a>
             </li>
           </ul>
+          
+        </div>
+        <div className="hamburger">
+          <span class = "bar"></span>
+          <span class = "bar"></span>
+          <span class = "bar"></span>
         </div>
       </div>
     </div>

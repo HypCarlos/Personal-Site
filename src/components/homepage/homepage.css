@@ -6,8 +6,11 @@
 
 .header {
   height: 80rem;
+  min-width: 80%;
   background-image: url("../../img/bye.jpg");
-  background-size: 179rem;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
 .header-content {

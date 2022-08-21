@@ -26,14 +26,13 @@
   flex: 1;
   display: flex;
   flex-direction: column;
-
   align-items: center;
   margin-top: 100px;
   margin-right: 300px;
 }
 
 .contact-title {
-  font-size: 4.5rem;
+  font-size: 5.5rem;
   width: 100%;
   text-align: center;
 }

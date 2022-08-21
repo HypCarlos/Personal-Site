@@ -10,8 +10,8 @@ function ProjectItems(props) {
   return (
     <div className="projectItems-container">
       <div className="project-text">
-      <h1 className="project-banner">Create.</h1>
-      <p className= "project-banner-text">My goal is to bring ideas to life while creating a memorable experience.</p>
+      <h1 className="project-banner">Create📁</h1>
+     <b> <p className= "project-banner-text">My goal is to bring ideas to life while creating a memorable experience.</p></b>
     </div>
     <div className="project-tiles">
     {projects.map ((item) => (

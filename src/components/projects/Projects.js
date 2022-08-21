@@ -8,17 +8,18 @@ function Projects() {
     <div className="projects-container">
       <div className="left-half">
         <div className="projects-banner">
-          <h2> Recent Projects.*</h2>
+          <h2> Recent Projects.* </h2>
+          {/* <h1>📁</h1> */}
         </div>
       </div>
       <div className="right-half">
         <div className="projects-info">
           <p>
-          Hello! I'm Carlos A Cordero! I recently graduated from Florida International University with a Bachelors of Science.
-          in Computer Science. I love to be able to bring ideas to life and be able to inspire others. I currently enjoy working
+          Hello! I'm Carlos A Cordero! I recently graduated from Florida International University with a <b> Bachelors of Science
+          in Computer Science.</b> I love to be able to bring ideas to life and be able to inspire others. I currently enjoy working
           with react and working on both the design process and implementation of frontend work.
         <br/> <br/> <br/>
-          I have experience working with Java, React, HTML5, CSS, Python, R, and continue to keep learning new technologies and frameworks.
+          I have experience working with <b>Java, React, HTML5, CSS, Python, R </b>, and continue to keep learning new technologies and frameworks.
           <br/> <br/> <br/>
           My goal is to be able to push boundaries with software in order to complement lives.
           </p>

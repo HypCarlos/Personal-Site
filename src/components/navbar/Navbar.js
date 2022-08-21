@@ -28,7 +28,7 @@ function Navbar() {
         <div className="nav-buttons">
           <ul>
             <li>
-              <a href="#projectss">Work</a>
+              <a href="#projects">Work</a>
             </li>
             <li>
               {" "}

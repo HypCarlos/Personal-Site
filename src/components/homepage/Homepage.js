@@ -25,7 +25,7 @@ function Homepage() {
       <div className="banner-container">
         <Banner/>
       </div>
-      <div id = "projectss" className="projects-container">
+      <div id = "projects" className="projects-container">
         <Projects />
       </div>
       <div id = "contact" className="contact-container">

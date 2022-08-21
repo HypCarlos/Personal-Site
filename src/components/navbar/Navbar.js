@@ -28,7 +28,7 @@ function Navbar() {
         <div className="nav-buttons">
           <ul>
             <li>
-              <a href="/">Work</a>
+              <a href="#projectss">Work</a>
             </li>
             <li>
               {" "}
@@ -36,16 +36,12 @@ function Navbar() {
             </li>
             <li>
               {" "}
-              <a href="/">Contact</a>
+              <a href="#contact">Contact</a>
             </li>
           </ul>
           
         </div>
-        <div className="hamburger">
-          <span class = "bar"></span>
-          <span class = "bar"></span>
-          <span class = "bar"></span>
-        </div>
+        
       </div>
     </div>
   );

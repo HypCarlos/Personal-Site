@@ -18,7 +18,7 @@ function ProjectItems(props) {
       <ProjectList key = {item.id} img ={ item.img} link = {item.link} name = {item.name} />
     ))}
    </div>
-
+        <h2>tap on project for more details.</h2>
     </div>
   );
 }

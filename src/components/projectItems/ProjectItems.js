@@ -11,7 +11,7 @@ function ProjectItems(props) {
     <div className="projectItems-container">
       <div className="project-text">
       <h1 className="project-banner">Create📁</h1>
-     <b> <p className= "project-banner-text">My goal is to bring ideas to life while creating a memorable experience.</p></b>
+     <p className= "project-banner-text">The best way to learn is to creeate. Here's what I've been working on.</p>
     </div>
     <div className="project-tiles">
     {projects.map ((item) => (

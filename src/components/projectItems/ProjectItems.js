@@ -6,6 +6,11 @@ import {projects} from "../../data";
 
 
 
+
+
+
+
+
 function ProjectItems(props) {
   return (
     <div className="projectItems-container">
@@ -18,7 +23,7 @@ function ProjectItems(props) {
       <ProjectList key = {item.id} img ={ item.img} link = {item.link} name = {item.name} />
     ))}
    </div>
-        <h2>tap on project for more details.</h2>
+        {/* <h2>tap on project for more details.</h2> */}
     </div>
   );
 }

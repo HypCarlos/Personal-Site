@@ -1,9 +1,10 @@
 .items-container {
-  height: 34vh;
+  height: 90%;
   width: 30%;
   margin: 20px 10px;
   border: 2px solid rgb(243, 242, 242);
-  border-radius: 10px 10px 10px 10px;
+
+  border-radius: 10px 10px 10px 10px; /* ROUNDED CORNERS*/
   overflow: hidden;
 }
 

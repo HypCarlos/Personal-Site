@@ -1,6 +1,8 @@
-import React from "react";
+import React  from "react";
 import ProjectItems from '../projectItems/ProjectItems';
 import "../projects/projects.css";
+
+
 
 function Projects() {
   return (
@@ -28,6 +30,7 @@ function Projects() {
 
     </div>
   
+
     <ProjectItems/>
     </div>
   );

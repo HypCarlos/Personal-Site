@@ -15,13 +15,12 @@ function ProjectItems({img, link, name}) {
         <div className="name-path">
         <p>$Carlos/{name}</p>
         </div>
-        
         </div>
         <a href= {link} target= "_blank">
           <img className = "p-img" src= {img} alt= "pic" />
         </a>
         </div>
-
+   
         
         </div>
     )

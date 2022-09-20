@@ -1,7 +1,7 @@
 import React from "react";
 import "../homepage/homepage.css";
 import Navbar from "../navbar/Navbar";
-import FOAM from "../../img/Foam.gif";
+// import FOAM from "../../img/Foam.gif";
 import Projects from "../projects/Projects";
 import Contact from "../contact/Contact";
 import Spline from '@splinetool/react-spline';

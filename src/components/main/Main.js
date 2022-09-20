@@ -1,6 +1,6 @@
 import React from "react";
 import "../main/main.css";
-import FOAM from "../../img/Foam.gif";
+
 import TypeWriterEffect from "react-typewriter-effect";
 
 
@@ -15,7 +15,7 @@ function Main() {
         <div className="foam-container">
        
 
-          <img id="foam-img" src={FOAM} alt="foam" />
+          {/* <img id="foam-img" src={FOAM} alt="foam" /> */}
         </div>
         <div className="main-text">
           <TypeWriterEffect

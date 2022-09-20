@@ -11,6 +11,7 @@ function ProjectItems({img, link, name}) {
         <div
           className="p-circle"
           style={{ backgroundColor: "limegreen" }}
+          
         ></div>
         <div className="name-path">
         <p>$Carlos/{name}</p>

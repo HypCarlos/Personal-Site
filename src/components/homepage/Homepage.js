@@ -6,6 +6,7 @@ import Projects from "../projects/Projects";
 import Contact from "../contact/Contact";
 import Spline from '@splinetool/react-spline';
 import Banner from "../banner/Banner";
+import TypeWriterEffect from "react-typewriter-effect";
 
 
 //COMPONENTS
@@ -17,7 +18,9 @@ function Homepage() {
         <div className="navbar">
           <Navbar />
         </div>
+
         <div className="header-content">
+        
         <Spline id = "spline" scene="https://prod.spline.design/XpQZCA1OCD8cSVd9/scene.splinecode" />
         </div>
       </div>

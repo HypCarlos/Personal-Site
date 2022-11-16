@@ -10,7 +10,7 @@ function Navbar() {
        <h1 id= "text" > <TypeWriterEffect
             color = "white"
             startDelay={0}
-            cursorColor="white"
+            cursorColor="black"
 
             multiText={[
               "Hello!",
@@ -21,7 +21,7 @@ function Navbar() {
             loop={true}
           />
           </h1>
-          {/* <h1 style={{ color: "white", fontSize: "35px"}}>[Carlos A. Cordero]</h1> */}
+        
         </div>
       </div>
       <div className="right-half">

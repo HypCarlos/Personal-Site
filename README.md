@@ -1,6 +1,6 @@
 # carlosacordero.com
 
-![image](https://user-images.githubusercontent.com/66544442/185809338-05a869d0-1235-4357-8873-f737b5343053.png)
+![image](https://user-images.githubusercontent.com/66544442/202823863-8d8b04a4-a8b6-4efd-b256-74332c451c26.png)
 
 
 # Getting Started with Create React App

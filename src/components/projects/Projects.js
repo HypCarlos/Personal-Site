@@ -25,6 +25,7 @@ function Projects() {
           <br/> <br/> <br/>
           My goal is to be able to push boundaries with software in order to complement lives.
           </p>
+ 
         </div>
       </div>
 

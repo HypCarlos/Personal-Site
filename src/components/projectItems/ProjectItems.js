@@ -9,8 +9,10 @@ function ProjectItems(props) {
     <div className="projectItems-container">
       <div className="project-text">
       <h1 className="project-banner">Create📁</h1>
-     <p className= "project-banner-text">The best way to learn is to create. Here's what I've been working on.</p>  
+     <p className= "project-banner-text">The best way to learn is to create. Here's what I've been working on.</p> 
+     
     </div>
+    <br/>
     <div className="project-tiles">
     {projects.map ((item) => (
       <ProjectList key = {item.id} img ={ item.img} link = {item.link} name = {item.name} />

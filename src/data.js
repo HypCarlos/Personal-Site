@@ -18,6 +18,12 @@ export const projects = [
         link: 'https://patentify.cognac.cs.fiu.edu/Home',
         name: 'Capstone Project'
     },
+    {
+        id: 3,
+        img: require("./assets/img/Spotify-api.png"),
+        link: 'https://github.com/HypCarlos/Spotify-Api',
+        name: 'Spotify-Api-Search'
+    },
   
    
  

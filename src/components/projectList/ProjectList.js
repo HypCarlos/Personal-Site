@@ -1,9 +1,9 @@
 import React from "react";
 import "../projectList/projectlist.css";
 
-function ProjectItems({img, link, name}) {
+function ProjectItems({img, link, name,}) {
     return (
-        <div className="items-container">
+        <div id = {name} className="items-container">
         <div className="card-container">
         <div className="card-browser">
         <div className="p-circle" style={{ backgroundColor: "red" }}></div>

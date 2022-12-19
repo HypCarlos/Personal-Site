@@ -8,12 +8,12 @@ function Footer() {
         <div className="footer-icons">
           {/* <h4>Follow me.</h4> */}
           
-          <a href="https://github.com/HypCarlos">
+          {/* <a href="https://github.com/HypCarlos">
             <img
               src="https://img.icons8.com/material-outlined/24/000000/github.png"
               alt="Git"
             ></img>
-          </a>
+          </a> */}
         </div>
       </div>
     </div>

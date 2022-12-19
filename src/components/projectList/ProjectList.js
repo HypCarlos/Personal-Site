@@ -3,6 +3,7 @@ import "../projectList/projectlist.css";
 
 function ProjectItems({img, link, name}) {
     return (
+      
         <div className="items-container">
         <div className="card-container">
         <div className="card-browser">
@@ -21,9 +22,8 @@ function ProjectItems({img, link, name}) {
           <img className = "p-img" src= {img} alt= "pic" />
         </a>
         </div>
-   
-        
         </div>
+        
     )
 }
 

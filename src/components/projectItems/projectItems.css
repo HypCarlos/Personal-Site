@@ -22,3 +22,21 @@
   font-size: 40px;
   font-weight: bolder;
 }
+
+#folder1 {
+  display: block;
+  /* justify-content: center; */
+  margin-left: 70%;
+  max-width: 10%;
+}
+
+#folder2 {
+  display: block;
+  margin-left: 25%;
+  max-width: 10%;
+}
+
+a {
+  text-decoration: none;
+  color: gray;
+}

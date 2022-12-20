@@ -22,7 +22,7 @@ export const projects = [
         id: 4,
         img: require("./assets/img/Spotify-api.png"),
         link: 'https://github.com/HypCarlos/Spotify-Api',
-        name: 'Spotify-Api-Search'
+        name: 'Spotify-Api'
     },
     {
         id: 5,

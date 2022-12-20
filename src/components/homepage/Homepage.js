@@ -21,8 +21,8 @@ function Homepage() {
 
         <div className="header-content">
 
-        <Spline id = "spline" scene="https://prod.spline.design/kIiw1s0Q4YKhvi0s/scene.splinecode" />
-        {/* <Spline id="spline" scene="https://prod.spline.design/U5OABLgXnOgXNjhW/scene.splinecode" /> */}
+        {/* <Spline id = "spline" scene="https://prod.spline.design/kIiw1s0Q4YKhvi0s/scene.splinecode" /> */}
+        <Spline id="spline" scene="https://prod.spline.design/U5OABLgXnOgXNjhW/scene.splinecode" />
 
         {/* <Spline id = "spline" scene="https://prod.spline.design/XpQZCA1OCD8cSVd9/scene.splinecode" /> */}
         </div>

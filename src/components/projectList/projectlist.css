@@ -30,8 +30,9 @@
 
 .name-path {
   font-size: 70%;
-  width: 80%;
+  width: 100%;
   margin-top: -10px;
+  overflow: hidden;
 }
 
 #Coming-Soon {

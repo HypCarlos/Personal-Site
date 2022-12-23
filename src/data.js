@@ -24,13 +24,7 @@ export const projects = [
         link: 'https://github.com/HypCarlos/Spotify-Api',
         name: 'Spotify-Api'
     },
-    {
-        id: 5,
-        img: require("./assets/img/pool.gif"),
-        link: 'https://github.com/HypCarlos/',
-        name: 'Coming-Soon'
-    },
-  
+ 
    
  
 ]

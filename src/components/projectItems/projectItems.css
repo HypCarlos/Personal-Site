@@ -24,19 +24,18 @@
 }
 
 #folder1 {
-  display: block;
-  /* justify-content: center; */
-  margin-left: 70%;
-  max-width: 10%;
+  padding-right: 200px;
 }
 
 #folder2 {
-  display: block;
-  margin-left: 25%;
-  max-width: 10%;
 }
 
 a {
   text-decoration: none;
   color: gray;
+}
+
+.folder-icons {
+  display: inline-flex;
+  justify-content: center;
 }

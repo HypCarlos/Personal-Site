@@ -5,11 +5,11 @@ function Banner() {
     return (
         <div className="banner-container">
         <div className="left-sliding">
-        <marquee className = "marquee" behavior= "scroll" direction="left" scrollamount = "15" height = "20px">
+        <marquee className = "marquee" behavior= "scroll" direction="left" scrollamount = "8" height = "20px">
            MIAMI BASED ASPIRING SOFTWARE ENGINEER* / FRONT END DEVELOPER* </marquee>
            </div>
            <div className="right-sliding">
-           <marquee className = "marquee" behavior="scroll" direction="right"  scrollamount = "17" height = "20px">
+           <marquee className = "marquee" behavior="scroll" direction="right"  scrollamount = "8" height = "20px">
             REACT // JAVA // HTML // CSS // CREATIVE DESIGN // FRONT END // BACK END // </marquee>
             </div>
         

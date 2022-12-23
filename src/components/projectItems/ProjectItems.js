@@ -12,7 +12,13 @@ function ProjectItems(props) {
      <p className= "project-banner-text">The best way to learn is to create. Here's what I've been working on.</p> 
     </div>
     <br/>
-    <a id = "folder1" href="https://github.com/HypCarlos" target="_blank">
+    <div className="project-tiles">
+    {projects.map ((item) => (
+      <ProjectList key = {item.id} img ={ item.img} link = {item.link} name = {item.name} />
+    ))}
+   </div>
+   <div className="folder-icons">
+   <a id = "folder1" href="https://github.com/HypCarlos" target="_blank">
             <img
               src="https://iconarchive.com/download/i99322/dtafalonso/yosemite-flat/Folder.ico"
               alt="Git"
@@ -20,19 +26,15 @@ function ProjectItems(props) {
             ></img>
             <h4>Github</h4>
           </a>
-    <div className="project-tiles">
-    {projects.map ((item) => (
-      <ProjectList key = {item.id} img ={ item.img} link = {item.link} name = {item.name} />
-    ))}
-   </div>
    <a id = "folder2" href="https://www.linkedin.com/in/carlosacordero/" target="_blank">
             <img
               src="https://iconarchive.com/download/i99322/dtafalonso/yosemite-flat/Folder.ico"
               alt="Linkedin"
-              height="80px"
+              height="60px"
             ></img>
             <h4>Linkedin</h4>
           </a>
+          </div>
     </div>
   );
 }

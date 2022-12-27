@@ -1,7 +1,6 @@
 import React from "react";
 import "../homepage/homepage.css";
 import Navbar from "../navbar/Navbar";
-// import FOAM from "../../img/Foam.gif";
 import Projects from "../projects/Projects";
 import Contact from "../contact/Contact";
 import Spline from '@splinetool/react-spline';
@@ -20,9 +19,9 @@ function Homepage() {
         </div>
 
         <div className="header-content">
-
-        {/* <Spline id = "spline" scene="https://prod.spline.design/kIiw1s0Q4YKhvi0s/scene.splinecode" /> */}
-        <Spline id="spline" scene="https://prod.spline.design/U5OABLgXnOgXNjhW/scene.splinecode" />
+        <Spline id = "spline" scene="https://prod.spline.design/kIiw1s0Q4YKhvi0s/scene.splinecode" />
+        {/* <Spline id = "spline" scene="https://prod.spline.design/bLvvJN7hGGFc-Wfb/scene.splinecode" /> */}
+        {/* <Spline id="spline" scene="https://prod.spline.design/U5OABLgXnOgXNjhW/scene.splinecode" /> */}
 
         {/* <Spline id = "spline" scene="https://prod.spline.design/XpQZCA1OCD8cSVd9/scene.splinecode" /> */}
         </div>

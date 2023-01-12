@@ -18,17 +18,17 @@
 }
 
 .contact-left {
-  padding-right: 300px;
+  /* padding-right: 300px; */
+  justify-content: center;
   flex: 1;
 }
 
 .contact-right {
-  flex: 1;
+  flex: 2;
   display: flex;
   flex-direction: column;
-  align-items: center;
-  margin-top: 200px;
-  margin-right: 300px;
+  justify-content: center;
+  padding: 220px 120px 0px 120px;
 }
 
 .contact-title {

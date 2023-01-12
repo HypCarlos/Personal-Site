@@ -19,6 +19,9 @@ function Homepage() {
         </div>
 
         <div className="header-content">
+        
+
+        {/* <Spline scene="https://prod.spline.design/8hHGoxrB4NPFePK8/scene.splinecode" /> */}
         <Spline scene="https://prod.spline.design/tCQ6KR1ZlaaoKBy7/scene.splinecode" />
 
         {/* <Spline id="spline" scene="https://prod.spline.design/U5OABLgXnOgXNjhW/scene.splinecode" /> */}

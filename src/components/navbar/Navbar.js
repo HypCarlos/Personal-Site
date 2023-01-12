@@ -10,7 +10,7 @@ function Navbar() {
        <h1 id= "text" > <TypeWriterEffect
             color = "white"
             startDelay={0}
-            cursorColor="black"
+            cursorColor="white"
 
             multiText={[
               "Hello!",

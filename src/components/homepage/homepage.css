@@ -5,7 +5,7 @@
 }
 
 .header {
-  height: 80rem;
+  height: 100%;
   min-width: 80%;
   background-image: url("../../assets/img/home.jpg");
   background-size: cover;

@@ -1,20 +1,21 @@
 .navbar-container {
   display: flex;
+  justify-content: center;
 }
 
-.navbar-header {
+/* .navbar-header {
   display: flex;
   padding: 3rem;
   justify-content: flex-start;
-}
-
+} */
+/* 
 .left-half {
   flex: 1;
-}
+} */
 
-.right-half {
+/* .right-half {
   flex: 1;
-}
+} */
 
 ul {
   color: black;
@@ -25,29 +26,26 @@ ul {
 li {
   padding: 3rem;
   padding-left: 2rem;
-  font-size: 16px;
+  font-size: 18px;
+}
+
+.nav-buttons {
+  display: flex;
 }
 
 .nav-buttons a {
   text-decoration: none;
   font-weight: bolder;
   color: white;
-  background-color: black;
 }
 
 .nav-buttons a:hover {
-  text-decoration: line-through;
+  text-decoration: underline;
   text-decoration-color: black;
-  text-decoration-thickness: 30%;
+  text-decoration-thickness: 20%;
 }
 .nav-buttons {
   display: flex;
   padding: 0.7rem;
   justify-content: flex-end;
-}
-
-#text {
-  color: white;
-  font-size: 1rem;
-  padding-left: 40px;
 }
